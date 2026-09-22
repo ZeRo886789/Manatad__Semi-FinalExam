@@ -1,0 +1,19 @@
+Create a reusable Product.vue component display three books 
+with different information.
+
+- Add 2 props: productName and price
+- Import the component
+- Display 3 different products by passing different prop values
+- Add a Boolean prop named isSold
+- Use class object binding so that sold books will appear in red and bold.
+
+Example Output: 
+Apple
+P12.00
+
+Macbook Neo (sold: in red and bold)
+P35,000.00
+
+Sack of Rice
+P3,175.00
+
